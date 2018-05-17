@@ -28,6 +28,8 @@ For a full list, visit https://github.com/cvhciKIT/sloth/releases
 8. Check that sloth runs by:
     * Try opening sloth window: `sloth --config sloth_custom_configuration.py`
 
+NOTE: You may need to change default Python environment path and restart computer for this to work. Once restarted, make sure to re-activate conda environment. This may be specifically a Windows OS issue. 
+
 ---
 
 ### Annotating a site
